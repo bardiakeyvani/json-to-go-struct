@@ -3,7 +3,7 @@
   "main": "./lib/json-to-go-struct",
   "version": "0.0.3",
   "description": "A short description of your package",
-  "keywords": [],
+  "keywords": ["json","go","golang","json-to-go"],
   "activationCommands": {
     "atom-workspace": "json-to-go-struct:toggle"
   },
