@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "json-to-go-struct:toggle"
   },
-  "repository": "https://github.com/atom/json-to-go-struct",
+  "repository": "https://github.com/bardiakeyvani/json-to-go-struct",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
