@@ -2,7 +2,7 @@
   "name": "json-to-go-struct",
   "main": "./lib/json-to-go-struct",
   "version": "0.0.4",
-  "description": "A short description of your package",
+  "description": "this package helps you convert json to go structs",
   "keywords": [
     "json",
     "go",
