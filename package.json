@@ -1,0 +1,18 @@
+{
+  "name": "json-to-go-struct",
+  "main": "./lib/json-to-go-struct",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "json-to-go-struct:toggle"
+  },
+  "repository": "https://github.com/atom/json-to-go-struct",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

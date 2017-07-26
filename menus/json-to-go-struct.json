@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle json-to-go-struct",
+        "command": "json-to-go-struct:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "json-to-go-struct",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "json-to-go-struct:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
